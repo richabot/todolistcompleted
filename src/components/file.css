@@ -1,0 +1,114 @@
+.striked{
+    text-decoration: line-through;
+    color:silver;
+}
+
+.checkbox{
+    width:20px;
+    height:20px;
+}
+
+.todocont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width:500px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 12px;
+    background-color: beige;
+}
+
+.sub{
+    width:500px;
+    padding: 10px 20px 20px 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 12px;
+    background-color: antiquewhite;
+}
+
+.intext{
+    width:300px;
+    height:30px;
+    font-size: 18px;
+    border:1px solid black;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.add{
+    font-size: 24px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.tr{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.todolist{
+    display:flex;
+    width:350px;
+    align-items: center;
+    margin: auto;
+    height:40px;
+    background-color:rgb(153, 150, 150);
+
+}
+
+.text{
+    width:100px;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 18px;
+    color:white;
+}
+
+.delete{
+    margin-left: 50px;
+    margin-left: 195px;
+}
+
+.todoitems{
+    margin-top: 20px;
+}
+
+.showbtn{
+    margin-top: 20px;
+    font-size: 18px;
+    color:white;
+    background-color: crimson;
+    border:2px solid crimson;
+    border-radius: 8px;
+    padding:5px 10px 5px 10px;
+}
+
+.disdiv{
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+    height:40px;
+    display: flex;
+    align-items:center;
+    background-color: rgb(119, 177, 119);
+}
+
+.stext{
+    width:270px;
+    height:30px;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.dbtn{
+    font-size: 18px;
+    background-color: red;
+    color:white;
+    border: 1px solid red;
+    border-radius: 8px;
+}
