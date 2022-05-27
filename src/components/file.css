@@ -17,7 +17,7 @@
     margin: auto;
     margin-top: 20px;
     border-radius: 12px;
-    background-color: beige;
+ 
 }
 
 .sub{
@@ -26,7 +26,7 @@
     margin: auto;
     margin-top: 20px;
     border-radius: 12px;
-    background-color: antiquewhite;
+ 
 }
 
 .intext{
@@ -76,39 +76,5 @@
     margin-top: 20px;
 }
 
-.showbtn{
-    margin-top: 20px;
-    font-size: 18px;
-    color:white;
-    background-color: crimson;
-    border:2px solid crimson;
-    border-radius: 8px;
-    padding:5px 10px 5px 10px;
-}
 
-.disdiv{
-    width: 350px;
-    margin: auto;
-    margin-top: 20px;
-    height:40px;
-    display: flex;
-    align-items:center;
-    background-color: rgb(119, 177, 119);
-}
 
-.stext{
-    width:270px;
-    height:30px;
-    font-size: 18px;
-    text-align: left;
-    padding-left: 10px;
-    
-}
-
-.dbtn{
-    font-size: 18px;
-    background-color: red;
-    color:white;
-    border: 1px solid red;
-    border-radius: 8px;
-}

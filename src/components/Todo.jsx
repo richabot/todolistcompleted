@@ -38,8 +38,10 @@ const Todo = () => {
             <input className='intext' placeholder='Enter Todo...' value={input} onChange={handlechange}/>
 
             <button className='add' onClick={() => {
-                todo.push({value:input, isCompleted:false});
-                setTodo([...todo]);
+                console.log(todo)
+          
+                console.log(todo)
+                setTodo([...todo,{value:input, isCompleted:false}]);
                 setInput("");
             }}>+</button>
         </div>
